@@ -1,0 +1,14 @@
+# Upload binaries as GitHub Release assets, not Git objects.
+*.zip
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+artifacts/
+release-assets/
+installer-config/
+.env
+.env.*
+*.pfx
+*.key
